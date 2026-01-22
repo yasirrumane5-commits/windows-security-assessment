@@ -47,7 +47,6 @@ Screenshots included in this repository show:
 - Security settings before hardening
 - Enabled protection features
 - Final secured state of the system
-All screenshots were cropped to avoid exposing personal or sensitive information.
 
 ## 🔐 Key Learnings
 
@@ -55,13 +54,6 @@ All screenshots were cropped to avoid exposing personal or sensitive information
 - Small configuration changes significantly improve security
 - Documentation is as important as implementation
 - Understanding basics is critical before advanced cybersecurity topics
-- 
-## 🚀 Next Steps
-
-- Advanced Windows hardening
-- Event Viewer & log analysis
-- Introduction to threat modeling
-- Blue team monitoring fundamentals
 
 ## ⚠️ Disclaimer
 
